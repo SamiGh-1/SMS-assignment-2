@@ -1,0 +1,14 @@
+{
+  "name": "school-managment-api",
+  "version": "1.0.0",
+  "description": "creating a restful api for a school managment system",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "sami gh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
